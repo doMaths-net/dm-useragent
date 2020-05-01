@@ -1,0 +1,19 @@
+{
+    "name": "dm-services/useragents",
+    "description": "DoMaths Services - UserAgent Handler",
+    "authors": [
+        {
+            "name": "Gary Grue",
+            "email": "admin@domaths.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dm-services\\useragents\\": "src/"
+        }
+    }
+}
