@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dm-services\\useragents\\": "src/"
+            "dmservices\\useragents\\": "src/"
         }
     }
 }
