@@ -1,5 +1,5 @@
 <?php
-namespace dm-services;
+namespace dmservices;
 
 class useragent {
 
