@@ -3,7 +3,7 @@ namespace dmservices;
 
 class useragents {
 
-	__construct() {
+	public function __construct() {
 		echo 'GETS TO THIS';
 	}
 
