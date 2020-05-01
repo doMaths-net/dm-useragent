@@ -1,7 +1,7 @@
 <?php
 namespace dmservices;
 
-class useragent {
+class useragents {
 
 	__construct() {
 		echo 'GETS TO THIS';
